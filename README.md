@@ -24,3 +24,7 @@ A standalone Spring boot application that allows to perform CRUD operations with
 * POST: localhost:8080/tickets/ (provide data as a body as above mentioned format)
 * PUT: localhost:8080/tickets/[ticketKey] (to update values for given key. provide updation data as a body as above mentioned format)
 * DELETE: localhost:8080/tickets/[ticketKey] (to delete a ticket specified by key)
+
+
+## Terminate the opened port (8080)
+* refere https://github.com/yash311/ticket-api-database-1/blob/master/kill-port.txt
