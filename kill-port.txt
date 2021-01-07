@@ -1,0 +1,2 @@
+netstat -ao |find /i "listening"
+Taskkill /F /IM [p-id of port]
