@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Jan 07 17:35:47 IST 2021:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0176-dcbd-12c8-000002a30440 
+on database directory memory:C:\Users\AI\Documents\workspace-spring-tool-suite-4-4.9.0.RELEASE\ticket-api-database-1\c932b895-a51f-4f6a-a71b-28376d45ba0f with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@443b7951 
+Loaded from file:/C:/Users/AI/.m2/repository/org/apache/derby/derby/10.14.2.0/derby-10.14.2.0.jar
+java.vendor=Oracle Corporation
+java.runtime.version=15.0.1+9-18
+user.dir=C:\Users\AI\Documents\workspace-spring-tool-suite-4-4.9.0.RELEASE\ticket-api-database-1
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
